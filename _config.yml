@@ -57,8 +57,16 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
-facebook:
+  username               : @rebekahbaglini
+Github:
+  links               : https://www.linkedin.com/in/rbkhlinguist/
+ Google Scholar: 
+   username               :
+LinkedIn: 
+  username               :
+ ORCID: 
+   username               :
+
   username               :
   app_id                 :
   publisher              :
@@ -80,13 +88,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Rebekah Brita Baglini"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Aarhus, DK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  linked in        : "https://www.linkedin.com/in/rbkhlinguist/"
+  googlescholar    : "https://scholar.google.com.tw/citations?user=DW9FDNIAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +104,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "rbkhb"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +117,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@rebekahbaglini"
   vine             :
   weibo            :
   xing             :
@@ -220,7 +228,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
+      path: "https://rbkhb.github.io/rbkh.github.io/publications"
       type: publications
     values:
       layout: single
